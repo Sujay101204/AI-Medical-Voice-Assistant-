@@ -42,3 +42,11 @@ AI-Medical-Voice-Assistant/
 │── assets/
 │── models/
 │── README.md
+
+# DEMO-VIDEO
+
+
+https://github.com/user-attachments/assets/e479833d-612e-4e91-9849-65e3320e470f
+
+
+
